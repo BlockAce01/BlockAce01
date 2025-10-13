@@ -5,14 +5,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    [cite_start]I'm an undergraduate in Computing and Information Systems [cite: 9, 15, 87] with a passion for bridging the gap between development and operations. [cite_start]My focus is on DevOps practices, cloud infrastructure, and software quality assurance to build scalable and reliable solutions[cite: 9, 83].
+    I'm an undergraduate in Computing and Information Systems with a passion for bridging the gap between development and operations. My focus is on DevOps practices, cloud infrastructure, and software quality assurance to build scalable and reliable solutions.
   </p>
   <div id="socials">
-    <a href="https://www.linkedin.com/in/theekshana-yugan-kavinda/" target="_blank">
+    <a href="https://www.linkedin.com/in/theekshana-yugan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:yugankavinda@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https.img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/BlockAce01" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,10 +24,10 @@
 
 ### 👨‍💻 About Me
 
-- [cite_start]🎓 I’m currently pursuing a Bsc (Hons) in Computing and Information Systems at **Sabaragamuwa University of Sri Lanka**[cite: 14, 15, 86, 87].
-- [cite_start]🌱 I have hands-on experience in building CI/CD pipelines, containerization with Docker, and managing cloud infrastructure on AWS using Terraform[cite: 11, 81, 82].
-- [cite_start]💡 My interests lie in **DevOps**, **Cloud Computing**, and **Test Automation**[cite: 10, 80].
-- [cite_start]💼 I'm also working as a contract **Web Developer** at Ceylon Effects[cite: 20, 21, 93, 94].
+- [cite_start]🎓 I’m currently pursuing a Bsc (Hons) in Computing and Information Systems at **Sabaragamuwa University of Sri Lanka**[cite: 14, 15].
+- [cite_start]🌱 I have hands-on experience in building CI/CD pipelines, containerization with Docker, and managing cloud infrastructure on AWS using Terraform[cite: 80, 81].
+- [cite_start]💡 My interests lie in **DevOps**, **Cloud Computing**, and **Test Automation**[cite: 80, 10, 11].
+- [cite_start]💼 I'm also working as a contract **Web Developer** at Ceylon Effects[cite: 20, 21, 22].
 - 💬 Ask me about Python, DevOps practices, or QA automation.
 
 ---
@@ -90,33 +90,33 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">MyBlog - DevOps Deployment</h3>
       <div align="center">
-        [cite_start]<p>Developed and deployed a full-stack MERN blog application with robust DevOps practices. [cite: 34, 100] [cite_start]The project includes a complete CI/CD pipeline with GitHub Actions, containerization with Docker, and a scalable cloud architecture on AWS managed with Terraform. [cite: 35, 36, 40, 101, 102, 106]</p>
-        <p><strong>Tech:</strong> MERN, Docker, Nginx, GitHub Actions, AWS (EC2, CloudFront), Terraform</p>
+        <p>Developed and deployed a full-stack MERN blog with robust DevOps practices. [cite_start]The project features a complete CI/CD pipeline using GitHub Actions, containerization with Docker, and a scalable cloud architecture on AWS managed with Terraform[cite: 34, 35, 36, 40].</p>
+        <p><strong>Tech:</strong> MERN, Docker, Nginx, GitHub Actions, AWS, Terraform</p>
         </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">E2E E-commerce Test Automation</h3>
       <div align="center">
-        [cite_start]<p>An end-to-end test automation suite for an e-commerce platform. [cite: 28, 107] [cite_start]Implemented using Python and Selenium WebDriver with the Page Object Model (POM) design pattern for maintainability. [cite: 28, 109] [cite_start]Features data-driven testing with pytest and cross-browser support. [cite: 29, 30, 110]</p>
+        <p>Built an end-to-end test automation suite for an e-commerce platform using Python and Selenium. [cite_start]Implemented the Page Object Model (POM) for maintainability, data-driven testing with pytest, and cross-browser support for validation[cite: 24, 28, 29, 30].</p>
         <p><strong>Tech:</strong> Python, Selenium, Pytest, Page Object Model (POM)</p>
         </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Daily Lecture Scheduler</h3>
       <div align="center">
-        [cite_start]<p>An automated scheduling system using an n8n workflow to parse departmental emails and PDF timetables. [cite: 43, 44, 114, 115] [cite_start]It automatically performs CRUD operations on Google Calendar events and is self-hosted on an AWS EC2 instance for continuous availability. [cite: 44, 45, 114]</p>
+        <p>Engineered an automated scheduling system with an n8n workflow to parse emails and PDF timetables. [cite_start]The system automatically manages Google Calendar events and is self-hosted on AWS EC2 for continuous availability and streamlined time management[cite: 41, 43, 44, 45].</p>
         <p><strong>Tech:</strong> n8n, AWS EC2, Google Calendar API, ngrok</p>
         </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Learning Platform (Examind)</h3>
       <div align="center">
-        [cite_start]<p>Contributed to a comprehensive e-learning platform for Sri Lankan A/L students. [cite: 46] [cite_start]My work included architectural planning, implementing features like a quiz engine, and integrating an n8n RAG AI assistant. [cite: 47, 49, 50, 121] [cite_start]I also established the end-to-end testing strategy. [cite: 51, 122]</p>
+        <p>Contributed to an e-learning platform for A/L students. My role included architectural design, implementing a quiz engine, and integrating an n8n RAG AI assistant. [cite_start]Also established the end-to-end testing strategy to ensure platform reliability[cite: 46, 47, 48, 50, 51].</p>
         <p><strong>Tech:</strong> Next.js, Express.js, PostgreSQL, JWT, Postman</p>
         </div>
     </td>
@@ -127,11 +127,15 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlockAce01&show_icons=true&theme=dracula" alt="Yugan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockAce01&layout=compact&theme=dracula" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockAce01&theme=dracula" alt="GitHub Streak"/>
-</p>
+<a href="https://github.com/BlockAce01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlockAce01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockAce01&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+
+<a href="https://github.com/BlockAce01">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockAce01&theme=dracula" />
+</a>
+
+</div>
