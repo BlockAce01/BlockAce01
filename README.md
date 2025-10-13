@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋I'm Yugan?</h1>
+<h1 align="center">Hey 👋I'm Yugan!</h1>
+
+###
+
+<h4 align="left">I'm a passionate tech enthusiast and aspiring software engineer with a strong interest in AI/ML, DevOps, and QA automation. Currently pursuing BSc. Hons. Computing and Information Systems at Sabaragamuwa University.</h4>
 
 ###
 
