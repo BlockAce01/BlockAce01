@@ -1,65 +1,85 @@
-# 👋 Hi, I’m @BlockAce01 (Yugan Kavinda)
-
-A passionate and enthusiastic CIS Undergraduate from Sri Lanka with a strong interest in Quality Assurance, AI/ML, and DevOps. I'm always eager to learn new technologies and apply them to solve real-world problems.
-
-## 🚀 About Me
-
-* 🎓 I'm currently a CIS Undergraduate.
-* 💡 I'm passionate about QA, AI/ML, and DevOps.
-* 🌱 I’m currently learning more about cloud-native technologies and advanced machine learning concepts.
-* 💞️ I’m looking to collaborate on open-source projects related to my interests.
-* 📫 How to reach me: [yugankavinda@gmail.com](mailto:yugankavinda@gmail.com)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-## 💻 My Projects
-
-Here are some of the projects I'm proud of.
-
-| Project                                                      | Description                                                                                             | Languages      |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | -------------- |
-| [MyBlog](https://github.com/BlockAce01/MyBlog)               | A personal blog application. (Add a more detailed description of your project here)                     | `TypeScript`   |
-| [Examind](https://github.com/BlockAce01/Examind)             | A learning platform for Sri Lankan A-Level students. (Add a more detailed description of your project here) | `TypeScript`   |
-| [e2e-Test\_Automation](https://github.com/BlockAce01/e2e-Test_Automation) | An end-to-end test automation framework. (Add a more detailed description of your project here)     | `Python`       |
-| [ReportEase](https://github.com/KavinduAluthwaththa/ReportEase) | (Add a brief description of your contribution to this project)                                          | `PHP`          |
-| [Integrated\_Government\_Service\_Registry](https://github.com/BlockAce01/Integrated_Government_Service_Registry) | (Add a brief description of this project)                                                               | `PHP`          |
-| [Black-Mirror-Web](https://github.com/BlockAce01/Black-Mirror-Web) | (Add a brief description of this project)                                                               | `HTML`         |
+### <div align="center">I'm Theekshana Yugan, a passionate developer and a tech enthusiast from Sri Lanka. I'm currently diving deep into the world of AI and Blockchain. 🚀</div>
 
 ---
 
-## 🛠️ My Skills
+### 👨‍💻 About Me
 
-### Programming Languages
+I'm a software engineer with a strong interest in building decentralized systems and intelligent applications. I'm always eager to learn new technologies and apply them to solve real-world problems.
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning about **Finetuning Large Language Models**.
+- 👯 I’m looking to collaborate on projects related to **Blockchain and AI**.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **Go, Blockchain, and AI**.
+- 📫 How to reach me: **[Your Email]**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
+---
+
+### 🛠️ My Skills
+
+#### Programming Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### Areas of Interest
-
-* **Quality Assurance:** Selenium, Cypress, Playwright, Jest
-* **AI/ML:** Scikit-learn, TensorFlow, PyTorch
-* **DevOps:** Docker, Kubernetes, Jenkins, Git
+#### Technologies & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 My GitHub Stats
+### 🚀 My Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlockAce01&show_icons=true&theme=radical" alt="BlockAce01's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockAce01&layout=compact&theme=radical" alt="Top Languages" />
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Blocace</h3>
+<div align="center">
+<a href="https://github.com/codingpeasant/blocace" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+<p>
+<br>
+A distributed document database powered by blockchain technology. This project is a prototype and the APIs are constantly evolving.
 </p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project 2</h3>
+<div align="center">
+<a href="[YOUR_PROJECT_LINK]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+<p>
+<br>
+[Your Project Description]
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockAce01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlockAce01&show_icons=true&theme=radical" alt="Theekshana Yugan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockAce01&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 🤝 Connect with me
+### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugan-kavinda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/theekshana-yugan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[YOUR_TWITTER_LINK]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
