@@ -1,21 +1,51 @@
-# 💫 About Me:
-A passionate tech enthusiast and aspiring software engineer with a strong interest in AI/ML, DevOps, and QA automation. Currently pursuing BSc. Hons. Computing and Information Systems at Sabaragamuwa University.
+<h1 align="center">Hey 👋 What's Up? I'm Yugan Kavinda</h1>
+<p align="center">
+An IT undergraduate passionate about DevOps, cloud infrastructure, and automation. I enjoy building scalable, reliable solutions by bridging the gap between development and operations.
+</p>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker" height="50" alt="docker logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dterraform" height="50" alt="terraform logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkubernetes" height="50" alt="kubernetes logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dansible" height="50" alt="ansible logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithubactions" height="50" alt="githubactions logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb" height="50" alt="mongodb logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgresql" height="50" alt="postgresql logo"  />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dselenium" height="50" alt="selenium logo"  />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theekshana-yugan/) 
+<div align="center">
+<a href="https://www.linkedin.com/in/theekshana-yugan/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+<a href="mailto:yugankavinda@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGmail%26logo%3Dgmail%26label%3D%26color%3DD14836%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="25" alt="gmail logo"  />
+</a>
+<a href="https://github.com/BlockAce01" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGitHub%26logo%3Dgithub%26label%3D%26color%3D181717%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="25" alt="github logo"  />
+</a>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BlockAce01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BlockAce01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockAce01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DBlockAce01%26locale%3Den%26mode%3Ddaily%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D5%26order%3D3" height="150" alt="streak graph"  />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app%3Fusername%3DBlockAce01%26theme%3Ddracula%26column%3D-1%26row%3D1%26margin-w%3D8%26margin-h%3D8%26no-bg%3Dfalse%26no-frame%3Dfalse" height="150" alt="trophy graph"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BlockAce01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BlockAce01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture align="center">
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/BlockAce01/BlockAce01/output/contribution-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/BlockAce01/BlockAce01/output/contribution-snake.svg">
+<img alt="contribution snake" src="https://www.google.com/search?q=https://raw.githubusercontent.com/BlockAce01/BlockAce01/output/contribution-snake.svg">
+</picture>
