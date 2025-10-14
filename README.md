@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate tech enthusiast and aspiring software engineer with a strong interest in AI/ML, DevOps, and QA automation. Currently pursuing BSc. Hons. Computing and Information Systems at Sabaragamuwa University.</h4>
+<h3 align="center">I'm a passionate tech enthusiast and aspiring software engineer with a strong interest in AI/ML, DevOps, and QA automation. Currently pursuing BSc. Hons. Computing and Information Systems at Sabaragamuwa University.</h3>
 
 ###
 
